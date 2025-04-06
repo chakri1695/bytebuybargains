@@ -1,5 +1,4 @@
- HEAD
-{
+ {
   "name": "bytebuybargains",
   "version": "1.0.0",
   "main": "index.js",
@@ -19,5 +18,3 @@
   }
 }
 
-{ "name": "bytebuybargains-blog", "version": "1.0.0" }
- 19de41a (Initial project push)
